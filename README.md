@@ -1,4 +1,4 @@
-<h1 align="center">Olá, eu sou o Felipe Marland Araujo 👋</h1>
+<h1 align="center">Olá, me chamo Felipe Marland Araujo </h1>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=felipemarland5323&label=Profile%20views&color=0e75b6&style=flat" alt="felipemarland5323" />
