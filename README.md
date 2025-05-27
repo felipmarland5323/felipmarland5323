@@ -18,13 +18,12 @@
 
 ## 🔧 Tecnologias que estou aprendendo
 
-- HTML5
-- CSS3
-- JavaScript (ES6+)
-- Git e GitHub
-- Responsividade e boas práticas de desenvolvimento
+- **HTML5** ![HTML5](https://progress-bar.dev/70/)
+- **CSS3** ![CSS3](https://progress-bar.dev/60/)
+- **JavaScript (ES6+)** ![JavaScript](https://progress-bar.dev/40/)
+- **Git e GitHub** ![Git](https://progress-bar.dev/50/)
+- **Responsividade e boas práticas** ![Responsividade](https://progress-bar.dev/30/)
 
----
 
 ## 📈 GitHub Stats
 
