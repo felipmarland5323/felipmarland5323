@@ -29,11 +29,10 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=felipemarland5323&show_icons=true&theme=radical" alt="Felipe's GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=felipemarland5323&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=felipmarland5323&show_icons=true&theme=radical" alt="Felipe's GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=felipmarland5323&theme=radical" alt="GitHub Streak" />
 </p>
 
----
 
 ## 📫 Como me encontrar:
 
