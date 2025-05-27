@@ -18,11 +18,11 @@
 
 ## 🔧 Tecnologias que estou aprendendo
 
-- **HTML5** ![HTML5](https://progress-bar.dev/70/)
-- **CSS3** ![CSS3](https://progress-bar.dev/60/)
-- **JavaScript (ES6+)** ![JavaScript](https://progress-bar.dev/40/)
-- **Git e GitHub** ![Git](https://progress-bar.dev/50/)
-- **Responsividade e boas práticas** ![Responsividade](https://progress-bar.dev/30/)
+![HTML5](https://img.shields.io/badge/HTML5-70%25-orange)
+![CSS3](https://img.shields.io/badge/CSS3-60%25-blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-40%25-yellow)
+![GitHub](https://img.shields.io/badge/Git/GitHub-50%25-lightgrey)
+![Responsividade](https://img.shields.io/badge/Responsividade-30%25-green)
 
 
 ## 📈 GitHub Stats
