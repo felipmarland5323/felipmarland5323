@@ -1,16 +1,53 @@
-## Hi there 👋
+<h1 align="center">Olá, eu sou o Felipe Marland Araujo 👋</h1>
 
-<!--
-**felipmarland5323/felipmarland5323** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=felipemarland5323&label=Profile%20views&color=0e75b6&style=flat" alt="felipemarland5323" />
+</p>
 
-Here are some ideas to get you started:
+## 🚀 Sobre mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎯 Desenvolvedor Web em formação, buscando minha **primeira oportunidade** como **Dev Júnior**.
+
+💻 Estudo e pratico **HTML**, **CSS** e **JavaScript**, com foco em criar projetos que demonstrem minhas habilidades.
+
+🛠️ Estou sempre evoluindo, aprendendo novas tecnologias e aprimorando meus projetos.
+
+📚 Atualmente aprimorando minhas habilidades em desenvolvimento front-end e explorando novas ferramentas para o meu portfólio.
+
+---
+
+## 🔧 Tecnologias que estou aprendendo
+
+- HTML5
+- CSS3
+- JavaScript (ES6+)
+- Git e GitHub
+- Responsividade e boas práticas de desenvolvimento
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=felipemarland5323&show_icons=true&theme=radical" alt="Felipe's GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=felipemarland5323&theme=radical" alt="GitHub Streak" />
+</p>
+
+---
+
+## 📫 Como me encontrar:
+
+- 📧 **Email**: felipmarland@gmail.com
+- 💼 **LinkedIn**: [Felipe Marland Araujo](https://www.linkedin.com/in/felipe-marland-araujo-3a9660210/)
+
+---
+
+## 🚀 Repositórios em destaque
+
+- [Portfólio pessoal](https://github.com/felipmarland5323/portfolio_felipemarland)
+- [Pizzaria Atualizado](https://github.com/felipmarland5323/pizzaria-atualizado)
+
+---
+
+⭐️ **Buscando minha primeira oportunidade como dev júnior e aberto para colaborações e feedbacks!**
+
