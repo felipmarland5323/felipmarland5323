@@ -18,11 +18,12 @@
 
 ## 🔧 Tecnologias que estou aprendendo
 
-![HTML5](https://img.shields.io/badge/HTML5-70%25-orange)
-![CSS3](https://img.shields.io/badge/CSS3-60%25-blue)
-![JavaScript](https://img.shields.io/badge/JavaScript-40%25-yellow)
-![GitHub](https://img.shields.io/badge/Git/GitHub-50%25-lightgrey)
-![Responsividade](https://img.shields.io/badge/Responsividade-30%25-green)
+![HTML5](https://img.shields.io/badge/HTML5-orange)
+![CSS3](https://img.shields.io/badge/CSS3-blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
+![Git](https://img.shields.io/badge/Git%20&%20GitHub-lightgrey)
+![Responsividade](https://img.shields.io/badge/Responsividade-green)
+
 
 
 ## 📈 GitHub Stats
@@ -30,7 +31,15 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=felipmarland5323&show_icons=true&theme=radical" alt="Felipe's GitHub stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=felipmarland5323&theme=radical" alt="GitHub Streak" />
+  
 </p>
+
+## 📊 Linguagens mais usadas
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipmarland5323&layout=compact&theme=radical" />
+</p>
+
 
 
 ## 📫 Como me encontrar:
