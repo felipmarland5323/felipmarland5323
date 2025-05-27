@@ -1,4 +1,4 @@
-<h1 align="center">👋 Olá, bem-vindo(a) ao meu GitHub!</h1>
+<h1 align="center">👋 Olá, bem-vindo(a)!</h1>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=felipmarland5323&label=Profile%20views&color=0e75b6&style=flat" alt="felipmarland5323" />
