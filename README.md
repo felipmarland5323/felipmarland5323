@@ -8,7 +8,7 @@
 
 ##  Sobre mim
 
- Me chamo **Felipe Marland Araujo** e sou um **desenvolvedor web em formação**, buscando minha **primeira oportunidade** como **Dev Júnior**.
+ Me chamo **Felipe Marland Araujo** e sou um **desenvolvedor web em formação**, buscando minha **primeira oportunidade** como **Dev Front-End**.
 
  Estudo e pratico **HTML**, **CSS** e **JavaScript**, focado em criar projetos que demonstrem minhas habilidades e evolução.
 
