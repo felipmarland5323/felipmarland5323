@@ -45,8 +45,8 @@ Estou sempre aprendendo novas tecnologias e aprimorando meus projetos para forta
 
 ## Como me encontrar
 
-- 📧 **Email**: felipmarland@gmail.com  
-- 💼 **LinkedIn**: [Felipe Marland Araujo](https://www.linkedin.com/in/felipe-marland-araujo-3a9660210/)
+-  **Email**: felipi_araujo@outlook.com
+-  **LinkedIn**: [Felipe Marland Araujo](https://www.linkedin.com/in/felipe-marland-araujo-3a9660210/)
 
 ---
 
